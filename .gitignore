@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+django_blog/blog/migrations/
+lib/
+lib64/
+include/
+django_blog/
+bin/
